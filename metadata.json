@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Domain Availability Checker",
+  "description": "A React and Tailwind CSS application to perform bulk checks for domain name availability using public DNS-over-HTTPS. Results are displayed progressively in a table.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
